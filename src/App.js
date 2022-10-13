@@ -1,23 +1,29 @@
 import logo from './logo.svg';
 import './App.css';
+import Main from './Student1/Main';
+//import NotFound from '.NotFound';
+import Router1 from '../src/Task4/Router1';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+       
+          {/* <Route path='/students' element={<Main />}></Route>
+          <Route path='/students/:stdid' element={<Studentdetails />}></Route>
+          <Route path='/student/:stdid' element={<Studentdetails />}></Route>
+          <Route path='/header' element={<Header />}></Route>  */}
+           {/* <Route path='/*' element={<Header1 />}></Route> 
+             */}
+{/* 
+              <Route path="/" element={<Studentdetails />} />
+        <Route path="/Students" element={<Studentdetails />} />
+        <Route path="/Student/:stdid" element={<Student />} />
+        <Route path="Students/:stdid" element={<Student />} />
+        <Route path="/task" element={<Main />} />
+        <Route path="/*" element={<NotFound />} /> */}
+
+<Router1 />
     </div>
   );
 }

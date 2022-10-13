@@ -1,0 +1,23 @@
+export const Students = [
+    { id: 1231, name: "John", marks: 510, place: "USA", branch: "M.Sc" },
+    { id: 1232, name: "nani", marks: 510, place: "USA", branch: "M.Sc" },
+    { id: 1233, name: "mahi", marks: 600, place: "USA", branch: "B.Sc" },
+    { id: 1234, name: "Jackie", marks: 600, place: "USA", branch: "B.Sc" },
+    { id: 1235, name: "Roman", marks: 550, place: "USA", branch: "MPC" },
+    { id: 1236, name: "ram", marks: 550, place: "USA", branch: "MPC" },
+    { id: 1247, name: "geetha", marks: 580, place: "USA", branch: "M.Sc" },
+    { id: 1248, name: "hema", marks: 580, place: "USA", branch: "M.Sc" },
+    { id: 1249, name: "sanju", marks: 480, place: "USA", branch: "B.Sc" },
+    { id: 1240, name: "honey", marks: 450, place: "USA", branch: "M.Sc" },
+    { id: 1244, name: "Rick", marks: 450, place: "USA", branch: "CSE" },
+    { id: 1241, name: "usha", marks: 460, place: "USA", branch: "CSE" },
+    { id: 1242, name: "Messi", marks: 460, place: "USA", branch: "M.Sc" },
+    { id: 1243, name: "santhi", marks: 300, place: "USA", branch: "ECE" },
+    { id: 1244, name: "chandu", marks: 300, place: "USA", branch: "ECE" },
+    { id: 1245, name: "Chan", marks: 590, place: "USA", branch: "M.Sc" },
+    { id: 1246, name: "anju", marks: 590, place: "USA", branch: "M.Sc" },
+    { id: 1257, name: "Vin", marks: 500, place: "USA", branch: "M.Sc" },
+    { id: 1258, name: "manjula", marks: 500, place: "USA", branch: "AI" },
+    { id: 1259, name: "Rock", marks: 520, place: "USA", branch: "AI" },
+  ];
+  
