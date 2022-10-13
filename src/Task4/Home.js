@@ -6,6 +6,7 @@ import { Students } from "./Info";
 import AllStudents from "./AllStudents";
 
 
+
 const Home = () => {
   const [StudentData, SetStudentData] = useState("");
   const [id, SetId] = useState("");
